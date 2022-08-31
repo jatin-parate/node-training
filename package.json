@@ -1,0 +1,14 @@
+{
+  "name": "training",
+  "version": "0.0.1",
+  "description": "Node training",
+  "main": "src/index.js",
+  "scripts": {
+    "start:local": "nodemon src/index.js"
+  },
+  "author": "Jatin Parate <jatin.parate@mlveda.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
