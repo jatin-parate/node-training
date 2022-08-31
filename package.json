@@ -9,6 +9,7 @@
   "author": "Jatin Parate <jatin.parate@mlveda.com>",
   "license": "ISC",
   "devDependencies": {
+    "@types/node": "^16.11.56",
     "nodemon": "^2.0.19"
   }
 }
